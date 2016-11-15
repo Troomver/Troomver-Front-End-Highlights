@@ -1,0 +1,21 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.cross {
+    background-color: blueviolet;
+}
+
+.cross-2 {
+    background-color: darkorange;
+}
+.cross-alt {
+    background-color: lime;
+}
+
+.cross-2-alt {
+    background-color: darkmagenta;
+}
